@@ -17,6 +17,7 @@ public class scr_MiniController : MonoBehaviour
     float jumpStrength = 2f;
     [SerializeField]
     float gravStrength = .04f;
+    public Animator animator;
     private Rigidbody rb = null;
     private bool isOnGround = false;
 
@@ -33,6 +34,7 @@ public class scr_MiniController : MonoBehaviour
         //get movement input
         if (SteamVR_Actions.default_WalkRight.state)
         {
+            animator.SetInteger("intMovementState", 1);
             if (currentVelX < maxspeed)
             {
                 currentVelX += acceleration;
@@ -40,10 +42,13 @@ public class scr_MiniController : MonoBehaviour
         }
 
         if (SteamVR_Actions.default_WalkLeft.state)
+        {
+            animator.SetInteger("intMovementState", 2);
             if (currentVelX > maxspeed * -1)
             {
                 currentVelX -= acceleration;
             }
+        }
 
         if (!SteamVR_Actions.default_WalkRight.state & !SteamVR_Actions.default_WalkLeft.state)
         {
@@ -58,11 +63,12 @@ public class scr_MiniController : MonoBehaviour
             else
             {
                 currentVelX = 0;
+                animator.SetInteger("intMovementState", 0);
             }
         }
 
         //Check if player is on ground and act accordingly
-        if (Physics.Raycast(transform.position, Vector2.down,.1f))
+        if (Physics.Raycast(transform.position, Vector2.down,.2f))
         {
             Debug.DrawRay(transform.position, Vector2.down, Color.green, .1f);
             isOnGround = true;
@@ -85,7 +91,7 @@ public class scr_MiniController : MonoBehaviour
             currentVelY = 0;
         }
 
-        //move according to input
+        //Move according to input
         rb.velocity = new Vector3(currentVelX, currentVelY, 0);
     }
 }

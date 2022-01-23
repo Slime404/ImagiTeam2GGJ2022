@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.OpenXR.Features.Oc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Windows_EditorHelper", "SteamVR_Windows_EditorHelper.csproj", "{BA825B0F-A3FB-F35A-3F7E-C1B98220E0BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Sprite.Editor", "Unity.2D.Sprite.Editor.csproj", "{653C9F53-694E-9034-FE26-2ED3B35375E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Tilemap.Editor", "Unity.2D.Tilemap.Editor.csproj", "{947D2BF1-23EB-8DF6-4CBD-89ADD40313F6}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.SpatialTracking", "UnityEngine.SpatialTracking.Player.csproj", "{25CAD132-3573-0C8C-4B42-168A01E79616}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.Player.csproj", "{4175FC37-CA84-8EB6-BBC7-3A725EFBFEB2}"
@@ -365,6 +369,14 @@ Global
 		{BA825B0F-A3FB-F35A-3F7E-C1B98220E0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA825B0F-A3FB-F35A-3F7E-C1B98220E0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA825B0F-A3FB-F35A-3F7E-C1B98220E0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653C9F53-694E-9034-FE26-2ED3B35375E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653C9F53-694E-9034-FE26-2ED3B35375E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653C9F53-694E-9034-FE26-2ED3B35375E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653C9F53-694E-9034-FE26-2ED3B35375E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947D2BF1-23EB-8DF6-4CBD-89ADD40313F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947D2BF1-23EB-8DF6-4CBD-89ADD40313F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947D2BF1-23EB-8DF6-4CBD-89ADD40313F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947D2BF1-23EB-8DF6-4CBD-89ADD40313F6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{25CAD132-3573-0C8C-4B42-168A01E79616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{25CAD132-3573-0C8C-4B42-168A01E79616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25CAD132-3573-0C8C-4B42-168A01E79616}.Release|Any CPU.ActiveCfg = Release|Any CPU

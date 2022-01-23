@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 380fbea77d3147e42a89ff9f1dedaf6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3768077753534328698
+    second: FairyRight_0
+  - first:
+      213: 8181839076503619681
+    second: FairyRight_1
+  - first:
+      213: -1481941067275456266
+    second: FairyRight_2
+  - first:
+      213: 1562888329677370095
+    second: FairyRight_3
+  - first:
+      213: 5136215496774049686
+    second: FairyRight_4
+  - first:
+      213: -5979719118217642994
+    second: FairyRight_5
+  - first:
+      213: 4200737447765375668
+    second: FairyRight_6
+  - first:
+      213: 4830140892454838978
+    second: FairyRight_7
+  - first:
+      213: 3179069005851617935
+    second: FairyRight_8
+  - first:
+      213: -5410715092617211139
+    second: FairyRight_9
+  - first:
+      213: -2209110757169407414
+    second: FairyRight_10
+  - first:
+      213: 725696425852724947
+    second: FairyRight_11
+  - first:
+      213: 4495848201638247438
+    second: FairyRight_12
+  - first:
+      213: -3652625285133491090
+    second: FairyRight_13
+  - first:
+      213: 1532846997417709708
+    second: FairyRight_14
+  - first:
+      213: 7829705886197635863
+    second: FairyRight_15
+  - first:
+      213: 2397422231860147495
+    second: FairyRight_16
+  - first:
+      213: 4723393004887982900
+    second: FairyRight_17
+  - first:
+      213: 6029218234472058687
+    second: FairyRight_18
+  - first:
+      213: 8096150771565889050
+    second: FairyRight_19
+  - first:
+      213: -2868298441845057092
+    second: FairyRight_20
+  - first:
+      213: 5872232103714078136
+    second: FairyRight_21
+  - first:
+      213: -4074035360447991131
+    second: FairyRight_22
+  - first:
+      213: 1253834343828915676
+    second: FairyRight_23
+  - first:
+      213: 4301350531575501552
+    second: FairyRight_24
+  - first:
+      213: 4299463914605845116
+    second: FairyRight_25
+  - first:
+      213: -8584855534998775943
+    second: FairyRight_26
+  - first:
+      213: -2456745512552758133
+    second: FairyRight_27
+  - first:
+      213: -3680204507514779858
+    second: FairyRight_28
+  - first:
+      213: 5511893652008929413
+    second: FairyRight_29
+  - first:
+      213: -1608621544194181356
+    second: FairyRight_30
+  - first:
+      213: 7580076493833516312
+    second: FairyRight_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FairyRight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2131.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2771b0c6ea4430800000000000000
+      internalID: 3768077753534328698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2131.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16888647a4bbb8170800000000000000
+      internalID: 8181839076503619681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2131.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0bbf273761f6be0800000000000000
+      internalID: -1481941067275456266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_3
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2131.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f502c7ae70b510800000000000000
+      internalID: 1562888329677370095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1827.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd21f08c0874740800000000000000
+      internalID: 5136215496774049686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1827.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7606d425c30da0800000000000000
+      internalID: -5979719118217642994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1827.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba7cb8c3740c4a30800000000000000
+      internalID: 4200737447765375668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1827.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ebddec8b180340800000000000000
+      internalID: 4830140892454838978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1523.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a6d3ada625e1c20800000000000000
+      internalID: 3179069005851617935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1523.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d4bb5a4749e4b0800000000000000
+      internalID: -5410715092617211139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1523.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5c618879a751e0800000000000000
+      internalID: -2209110757169407414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_11
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1523.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e8bded01321a00800000000000000
+      internalID: 725696425852724947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1219.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cf9be8e16746e30800000000000000
+      internalID: 4495848201638247438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1219.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642206d7a44f4dc0800000000000000
+      internalID: -3652625285133491090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1219.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805b180934c54510800000000000000
+      internalID: 1532846997417709708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_15
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1219.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b589a1504b8ac60800000000000000
+      internalID: 7829705886197635863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725f5aa51da554120800000000000000
+      internalID: 2397422231860147495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 915.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c9ee89ecdc8140800000000000000
+      internalID: 4723393004887982900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 915.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc3034a061ca350800000000000000
+      internalID: 6029218234472058687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 915.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1680334b3e4b5070800000000000000
+      internalID: 8096150771565889050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d40893c1c138d0800000000000000
+      internalID: -2868298441845057092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 611.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdb5846cfb5e7150800000000000000
+      internalID: 5872232103714078136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 611.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2fd12cc6e1677c0800000000000000
+      internalID: -4074035360447991131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 611.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58b1f41b3866110800000000000000
+      internalID: 1253834343828915676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2def8d48771bb30800000000000000
+      internalID: 4301350531575501552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 307.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a11ba96a3caab30800000000000000
+      internalID: 4299463914605845116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_26
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 307.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771a5c10677cd880800000000000000
+      internalID: -8584855534998775943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 307.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8402c409f2e7edd0800000000000000
+      internalID: -2456745512552758133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e274accbf794decc0800000000000000
+      internalID: -3680204507514779858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58809bfb21e2e7c40800000000000000
+      internalID: 5511893652008929413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_30
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f3487a370da9e0800000000000000
+      internalID: -1608621544194181356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FairyRight_31
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 3.5
+        width: 247
+        height: 304.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153c310967d13960800000000000000
+      internalID: 7580076493833516312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
