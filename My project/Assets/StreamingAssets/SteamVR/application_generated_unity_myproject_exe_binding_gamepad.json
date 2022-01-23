@@ -1,0 +1,99 @@
+{
+   "action_manifest_version" : 0,
+   "alias_info" : {},
+   "app_key" : "application.generated.unity.myproject.exe",
+   "bindings" : {
+      "/actions/default" : {
+         "sources" : [
+            {
+               "inputs" : {
+                  "east" : {
+                     "output" : "/actions/default/in/walkright"
+                  },
+                  "west" : {
+                     "output" : "/actions/default/in/walkleft"
+                  }
+               },
+               "mode" : "dpad",
+               "parameters" : {
+                  "sub_mode" : "touch"
+               },
+               "path" : "/user/gamepad/input/joystick_left"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/default/in/walkright"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/gamepad/input/dpad_right"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/default/in/walkleft"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/gamepad/input/dpad_left"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/default/in/jump"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/gamepad/input/a"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/default/in/jump"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/gamepad/input/b"
+            }
+         ]
+      },
+      "/actions/platformer" : {
+         "sources" : [
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/platformer/in/jump"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/gamepad/input/a"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/platformer/in/jump"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/gamepad/input/b"
+            },
+            {
+               "inputs" : {
+                  "position" : {
+                     "output" : "/actions/platformer/in/move"
+                  }
+               },
+               "mode" : "joystick",
+               "path" : "/user/gamepad/input/joystick_left"
+            }
+         ]
+      }
+   },
+   "category" : "steamvr_input",
+   "controller_type" : "gamepad",
+   "description" : "Controls for the smaller character",
+   "name" : "PersonMiniController",
+   "options" : {},
+   "simulated_actions" : []
+}
